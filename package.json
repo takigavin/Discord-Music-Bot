@@ -1,0 +1,23 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that has music functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takigavin/Discord-Music-Bot.git"
+  },
+  "author": "Gavin Horner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takigavin/Discord-Music-Bot/issues"
+  },
+  "homepage": "https://github.com/takigavin/Discord-Music-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "eslint": "^7.4.0"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "discord-music-bot",
+  "name": "taki-bot",
   "version": "1.0.0",
   "description": "Discord bot that has music functionality",
   "main": "index.js",
@@ -8,16 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/takigavin/Discord-Music-Bot.git"
+    "url": "git+https://github.com/takigavin/taki-bot.git"
   },
   "author": "Gavin Horner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/takigavin/Discord-Music-Bot/issues"
+    "url": "https://github.com/takigavin/taki-bot/issues"
   },
-  "homepage": "https://github.com/takigavin/Discord-Music-Bot#readme",
+  "homepage": "https://github.com/takigavin/taki-bot#readme",
   "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
     "discord.js": "^12.2.0",
-    "eslint": "^7.4.0"
+    "eslint": "^7.4.0",
+    "ffmpeg-static": "^4.2.5",
+    "node-fetch": "^2.6.0",
+    "ytdl-core-discord": "github:amishshah/ytdl-core-discord"
   }
 }

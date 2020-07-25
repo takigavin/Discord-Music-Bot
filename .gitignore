@@ -1,5 +1,4 @@
 ##################
 #Ignore API token#
 ##################
-token.txt
-token.js
+config.json

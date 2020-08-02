@@ -18,9 +18,7 @@ As of right now, it is a private bot. When I have it running, anyone within my D
 
     - !play [youtube link] : The bot enters the discord channel you are in and begins playing the audio from the link.
     
-	![](examples/!play_starting_demo.mp4)
-
-	![](examples/!play_ending_example.PNG)
+	
 
     - !creation : Tells the date the discord server was created in the text channel the command was used.
     

@@ -16,6 +16,7 @@ As of right now, it is a private bot. When I have it running, anyone within my D
     - !creation : Tells the date the discord server was created in the text channel the command was used.
     - !ping : The bot replies "Pong!" in the text channel the command was used.
     - !doggo : The bot replies with a random image of a dog
+    
         ![](/examples/!doggo_example.PNG)
     - Many more to come, whatever I think would be beneficiary to have on my Discord server!
 

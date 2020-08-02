@@ -26,6 +26,7 @@ const cooldowns = new Discord.Collection();
 // when the client is ready, run this code
 // this event will only trigger one time after logging in
 client.once('ready', () => {
+	client.user.setActivity('!help', {type: 'LISTENING'});
 	console.log('Ready!');
 });
 

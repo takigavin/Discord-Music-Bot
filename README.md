@@ -16,6 +16,8 @@ As of right now, it is a private bot. When I have it running, anyone within my D
         
         ![](/examples/!help_example_2.PNG)
     - !play [youtube link] : The bot enters the discord channel you are in and begins playing the audio from the link.
+    
+        ![](/examples/!play_ending_example.PNG)
     - !creation : Tells the date the discord server was created in the text channel the command was used.
     - !ping : The bot replies "Pong!" in the text channel the command was used.
     - !doggo : The bot replies with a random image of a dog

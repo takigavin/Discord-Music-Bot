@@ -9,8 +9,8 @@ gavinhorner0@gmail.com
 ### USAGE
 As of right now, it is a private bot. When I have it running, anyone within my Discord server can make use of the commands with the prefix and then a valid command. I plan to make it public once I add more functionality and security.
 
-Examples:
-  - !help : The bot will send you a direct message with a list of the current commands which you can then request further information on the commands individually.
+- Examples:
+    - !help : The bot will send you a direct message with a list of the current commands which you can then request further information on the commands individually.
     
 	![](examples/!help_example_1.PNG)
 

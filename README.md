@@ -11,10 +11,12 @@ As of right now, it is a private bot. When I have it running, anyone within my D
 
 - Examples:
     - !help : The bot will send you a direct message with a list of the current commands which you can then request further information on the commands individually.
+    
     - !play [youtube link] : The bot enters the discord channel you are in and begins playing the audio from the link.
     - !creation : Tells the date the discord server was created in the text channel the command was used.
     - !ping : The bot replies "Pong!" in the text channel the command was used.
     - !doggo : The bot replies with a random image of a dog
+        ![](/examples/!doggo_example.PNG)
     - Many more to come, whatever I think would be beneficiary to have on my Discord server!
 
 ### ABOUT
